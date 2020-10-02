@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 Adding line for rebasing
 Again adding over the commits for conflicts
-Conflicts have been resolved
+Conflicts have been resolved and push to origin
