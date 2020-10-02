@@ -10,6 +10,6 @@
     <name>
 
 # TECHNOLOGY COLOPHON
-	All my students
+	All my students1
     HTML5, CSS3
     jQuery, Modernizr
