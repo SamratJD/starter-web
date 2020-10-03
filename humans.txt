@@ -10,6 +10,6 @@
     <name>
 
 # TECHNOLOGY COLOPHON
-	All my students1
+	Adding tagging changes
     HTML5, CSS3
     jQuery, Modernizr
